@@ -1,0 +1,15 @@
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.csproj.AssemblyReference.cache
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.AssemblyInfoInputs.cache
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.AssemblyInfo.cs
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\msgud\tasks_C#\task6\bin\Debug\net7.0\task6.exe
+C:\Users\msgud\tasks_C#\task6\bin\Debug\net7.0\task6.deps.json
+C:\Users\msgud\tasks_C#\task6\bin\Debug\net7.0\task6.runtimeconfig.json
+C:\Users\msgud\tasks_C#\task6\bin\Debug\net7.0\task6.dll
+C:\Users\msgud\tasks_C#\task6\bin\Debug\net7.0\task6.pdb
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.dll
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\refint\task6.dll
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.pdb
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\task6.genruntimeconfig.cache
+C:\Users\msgud\tasks_C#\task6\obj\Debug\net7.0\ref\task6.dll
