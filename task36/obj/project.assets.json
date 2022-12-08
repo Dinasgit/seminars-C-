@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msgud\\tasks_C#\\task36\\task36.csproj",
+      "projectUniqueName": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task36\\task36.csproj",
       "projectName": "task36",
-      "projectPath": "C:\\Users\\msgud\\tasks_C#\\task36\\task36.csproj",
+      "projectPath": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task36\\task36.csproj",
       "packagesPath": "C:\\Users\\msgud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msgud\\tasks_C#\\task36\\obj\\",
+      "outputPath": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task36\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msgud\\AppData\\Roaming\\NuGet\\NuGet.Config"

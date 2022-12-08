@@ -8,7 +8,7 @@ Console.WriteLine("Массив: ");
 PrintArray(numbers);
 int sum = 0;
 
-for (int z = 0; z < numbers.Length; z+=2)
+for (int z = 1; z < numbers.Length; z+=2)
     sum = sum + numbers[z];
 
     Console.WriteLine($"Сумма элементов cтоящих на нечётных позициях = {sum}");
