@@ -1,35 +1,28 @@
 ﻿// Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 
+void InputMatrix(double[,] matrix, int minNumber = (-10), int maxNumber = 10 )
+{
+    Console.WriteLine();
+
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {   
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            matrix[i,j] = Math.Round(new Random().NextDouble() * new Random().Next(minNumber, maxNumber + 1), 2);
+
+            Console.Write($"{matrix[i,j]}\t");
+        }        
+    Console.WriteLine($"\n");
+    }
+}
+
 Console.Clear();
-Console.WriteLine("Введите количество строк  ");
-int linesVol = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите количество столбцов");
-int columnsVol = Convert.ToInt32(Console.ReadLine());
-double[,] numbers = new double[linesVol, columnsVol];
-FillArrayRandomNumbers(numbers);
-PrintArray(numbers);
+Console.Write("Введите размер матрицы одной строкой через пробел: ");
+string[] arrayVolume = Console.ReadLine().Split(" ");
 
-void FillArrayRandomNumbers(double[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            array[i, j] = Convert.ToDouble(new Random().Next(-100, 100)) / 10;
-        }
-    }
-}
+int row = int.Parse(arrayVolume[0]);
+int column = int.Parse(arrayVolume[1]);
 
-void PrintArray(double[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        Console.Write("[ ");
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            Console.Write(array[i, j] + " ");
-        }
-        Console.Write("]");
-        Console.WriteLine("");
-    }
-}
+double[,] matrix = new double[row,column];
+
+InputMatrix(matrix);
