@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msgud\\tasks_C#\\task50\\task50.csproj": {}
+    "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task50\\task50.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msgud\\tasks_C#\\task50\\task50.csproj": {
+    "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task50\\task50.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msgud\\tasks_C#\\task50\\task50.csproj",
+        "projectUniqueName": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task50\\task50.csproj",
         "projectName": "task50",
-        "projectPath": "C:\\Users\\msgud\\tasks_C#\\task50\\task50.csproj",
+        "projectPath": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task50\\task50.csproj",
         "packagesPath": "C:\\Users\\msgud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msgud\\tasks_C#\\task50\\obj\\",
+        "outputPath": "C:\\Users\\msgud\\tasks_C#\\seminars-C-\\task50\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msgud\\AppData\\Roaming\\NuGet\\NuGet.Config"
